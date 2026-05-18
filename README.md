@@ -93,13 +93,3 @@ A identidade visual segue a paleta de cores oficial do Xbox:
 | **Plataforma** | [DIO — Digital Innovation One](https://www.dio.me/) |
 | **Bootcamp** | TOTVS — Fundamentos de Engenharia de Dados e Machine Learning |
 | **Desafio** | Criação de Dashboard de Vendas no Excel |
-
----
-
-## 👤 Autor
-
-Desenvolvido como parte do desafio prático do bootcamp TOTVS na DIO.
-
----
-
-*Feito com 💚 e dados*
